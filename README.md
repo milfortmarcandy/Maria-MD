@@ -19,10 +19,10 @@
 
 
 
-## ```Bot Channel support```
+## ```Bot group support```
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/DtC0UVp3XaF5tE58Lov46J?mode=gi_t"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
