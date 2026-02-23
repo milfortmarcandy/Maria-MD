@@ -22,7 +22,7 @@
 ## ```Bot Channel support```
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w"><img src="https://img.shields.io/badge/rejoindre notre chain de support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
